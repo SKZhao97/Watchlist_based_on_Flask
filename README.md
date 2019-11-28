@@ -3,8 +3,8 @@
 Example application for flask tutorial "[Flask 入门教程](http://helloflask.com/tutorial/)"
 
 Demo:  
+![Demo](https://github.com/SKZhao97/Watchlist_based_on_flask/blob/master/Demo_pic.jpg)
 
-<div align=center>![Demo_fig](https://github.com/SKZhao97/Watchlist_based_on_flask/blob/master/Demo_pic.jpg)
 
 ## Summary
 $ Web structured based on Flask;   
